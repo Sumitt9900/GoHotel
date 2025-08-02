@@ -68,10 +68,15 @@ Ensure you have the following software installed on your machine:
 
 .
 ├── go.mod
+
 ├── go.sum
+
 ├── index.html      # The main front-end file
+
 ├── main.go         # The Go back-end server logic
+
 └── script.js       # The front-end JavaScript logic
+
 
 
 ---
